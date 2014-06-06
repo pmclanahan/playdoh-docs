@@ -6,7 +6,7 @@ Getting help and contacting playdoh devs
 
 IRC:
 
-    We hang out on ``#webdev`` on ``irc.mozilla.org``. That's a synchronous
+    We hang out in ``#playdoh`` and ``#webdev`` on ``irc.mozilla.org``. That's a synchronous
     chat, so if someone doesn't answer your questions, then it's possible no
     one is around or the people who are around don't know the answer.
 
